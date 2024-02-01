@@ -1,5 +1,3 @@
-# Mantine Next Template
+# Submission for DSHack 2024
 
-Get started with the template by clicking `Use this template` button on the top of the page.
-
-[Documentation](https://mantine.dev/guides/next/)
+An AI powered hospital smart AI that makes the life of doctors and patients easier
