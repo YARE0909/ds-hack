@@ -1,0 +1,23 @@
+.wrapper {
+  position: relative;
+  margin-bottom: rem(30px);
+  width: 100%;
+  border: solid rem(1px) var(--mantine-color-gray-7);
+  border-radius: var(--mantine-radius-md);
+}
+
+.dropzone {
+  border-width: rem(1px);
+  padding-bottom: rem(50px);
+}
+
+.icon {
+  color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-3));
+}
+
+.control {
+  position: absolute;
+  width: rem(250px);
+  left: calc(50% - rem(125px));
+  bottom: rem(-20px);
+}
