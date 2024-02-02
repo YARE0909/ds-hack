@@ -13,7 +13,7 @@ export default function UserInfoAction() {
         }}
       >
         <Avatar
-          src="https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/avatars/avatar-8.png"
+          src="https://b.kisscc0.com/20180705/oue/kisscc0-physician-doctor-of-medicine-doctor-s-visit-stetho-doctor-white-coat-5b3e5f790622a9.9091104415308143290251.png"
           size={120}
           radius={120}
         />

@@ -17,12 +17,6 @@ export default function EmailBanner() {
           Have a nice Monday
         </Text>
       </div>
-      <Image 
-        src="/assets/Banner.svg"
-        width={150}
-        height={100}
-        alt="Doctor"
-      />
     </div>
   );
 }

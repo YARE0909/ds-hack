@@ -57,6 +57,7 @@ const Index = () => {
           alignItems: "start",
           gap: 20,
           width: "100%",
+          marginTop: "1rem",
         }}
       >
         <Group
@@ -111,11 +112,11 @@ const Index = () => {
                   </>
                 ) : (
                   <>
+                    <Text fz={15} fw={700} c={"#828282"}>
+                      Tumour Detection
+                    </Text>
                     <Text fz={20} fw={700}>
                       No Tumour Detected
-                    </Text>
-                    <Text>
-                      Accuracy: {(result.accuracy * 100).toPrecision(4)} %
                     </Text>
                   </>
                 )}
